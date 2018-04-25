@@ -1,2 +1,2 @@
-# Python-functions-
-The goal of this project is to create a python function for all basic operations: 
+# Python-functions
+The main goal of this project is to create a python function for all basic operations: 
